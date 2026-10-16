@@ -68,7 +68,7 @@ The full case study report is available here:
 |---|---|---|
 | Edward Mwaura | HuginnsHammer | Repository setup and Iterative Approach |
 | Member 2 | S-Atieno | Dynamic programming |
-| Member 3 | Lewis-Maxwell | Loyalty system application and conclusion |
+| Maxwell Lewis | Lewis-Maxwell | Loyalty system application and conclusion |
 | Member 4 | RAYANMUCHIRA254 | Recursive approach |
 | Moris Mutuku | mutukumoris-lang | Performance analysis and comparison |
 
