@@ -67,9 +67,9 @@ The full case study report is available here:
 | Member Name | GitHub Username | Contribution |
 |---|---|---|
 | Edward Mwaura | HuginnsHammer | Repository setup and Iterative Approach |
-| Member 2 | S-Atieno | Dynamic programming |
+| S-Atieno | S-Atieno | Dynamic programming |
 | Maxwell Lewis | Lewis-Maxwell | Loyalty system application and conclusion |
-| Member 4 | RAYANMUCHIRA254 | Recursive approach |
+| Rayanmuchira| RAYANMUCHIRA254 | Recursive approach |
 | Moris Mutuku | mutukumoris-lang | Performance analysis and comparison |
 
 This repository contains the team's C++ implementation and case study report for the Fibonacci Series and Data Structures project.
