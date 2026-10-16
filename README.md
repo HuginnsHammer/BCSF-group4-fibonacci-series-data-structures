@@ -62,5 +62,14 @@ The full case study report is available here:
 ## Team
 
 **BCSF Group 4**
+## Team Members and Contributions
+
+| Member Name | GitHub Username | Contribution |
+|---|---|---|
+| Edward | HuginnsHammer | Repository setup and Iterative Approach |
+| Member 2 | S-Atieno | Dynamic programming |
+| Member 3 | Lewis-Maxwell | Loyalty system application and conclusion |
+| Member 4 | RAYANMUCHIRA254 | Recursive approach |
+| Member 5 | mutukumoris-lang | Performance analysis and comparison |
 
 This repository contains the team's C++ implementation and case study report for the Fibonacci Series and Data Structures project.
