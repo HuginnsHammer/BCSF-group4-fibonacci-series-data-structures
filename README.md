@@ -70,6 +70,6 @@ The full case study report is available here:
 | Member 2 | S-Atieno | Dynamic programming |
 | Member 3 | Lewis-Maxwell | Loyalty system application and conclusion |
 | Member 4 | RAYANMUCHIRA254 | Recursive approach |
-| Member 5 | mutukumoris-lang | Performance analysis and comparison |
+| Moris Mutuku | mutukumoris-lang | Performance analysis and comparison |
 
 This repository contains the team's C++ implementation and case study report for the Fibonacci Series and Data Structures project.
