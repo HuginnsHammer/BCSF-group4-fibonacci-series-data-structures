@@ -67,7 +67,7 @@ The full case study report is available here:
 | Member Name | GitHub Username | Contribution |
 |---|---|---|
 | Edward Mwaura | HuginnsHammer | Repository setup and Iterative Approach |
-| S-Atieno | S-Atieno | Dynamic programming |
+| Silvia Atieno| S-Atieno | Dynamic programming |
 | Maxwell Lewis | Lewis-Maxwell | Loyalty system application and conclusion |
 | Rayanmuchira| RAYANMUCHIRA254 | Recursive approach |
 | Moris Mutuku | mutukumoris-lang | Performance analysis and comparison |
